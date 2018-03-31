@@ -19,7 +19,46 @@
 	</nav>
 
 	<main class="main">
-		
+		<article class="article">
+
+			<div class="postcard">
+				<div class="photo">
+					<a href="#"><img src="sq_img/img1resize.jpg" alt="sq_img/img1resize"></a>
+				</div>
+				<p>XXX</p>
+			</div>
+			<div class="postcard">
+				<div class="photo">
+					<a href="#"><img src="sq_img/img2resize.jpg" alt="sq_img/img2resize"></a>
+				</div>
+				<p>XXX</p>
+			</div>
+			<div class="postcard">
+				<div class="photo">
+					<a href="#"><img src="sq_img/img3resize.jpg" alt="sq_img/img3resize"></a>
+				</div>
+				<p>XXX</p>
+			</div>
+			<div class="postcard">
+				<div class="photo">
+					<a href="#"><img src="sq_img/img4resize.jpg" alt="sq_img/img4resize"></a>
+				</div>
+				<p>XXX</p>
+			</div>
+			<div class="postcard">
+				<div class="photo">
+					<a href="#"><img src="sq_img/img5resize.jpg" alt="sq_img/img5resize"></a>
+				</div>
+				<p>XXX</p>
+			</div>
+			<div class="postcard">
+				<div class="photo">
+					<a href="#"><img src="sq_img/img6resize.jpg" alt="sq_img/img6resize"></a>
+				</div>
+				<p>XXX</p>
+			</div>
+
+		</article>
 	</main>
 
 	<footer class="footer">
