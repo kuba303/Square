@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="utf-8">
+	<meta name="" content= "">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title></title>
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
@@ -62,12 +65,8 @@
 	</main>
 
 	<footer class="footer">
-			
+		<a href="#">Bold as Fuck 2018 &copy;</a>	
 	</footer>
-
-
-
-	
 
 </body>
 </html>
