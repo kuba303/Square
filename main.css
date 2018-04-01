@@ -51,3 +51,29 @@ li{
 	margin-left: 20px;
 
 }
+/* XXXXXX MAIN XXXXXXXXXX */
+
+main{
+	display: grid;
+	width: 100%;
+	box-sizing: border-box;
+	/*grid-template-columns: repeat(auto-fit minmax(200px, 1fr));
+	/*grid-template-rows: repeat(auto-fit );*/
+	grid-gap: 30px;
+	margin-left: 30px;
+
+}
+.photo{
+	display: inline-block;
+	float: left;
+	
+
+}
+img{
+	width: 400px;
+    height: auto;
+    
+   
+
+
+}

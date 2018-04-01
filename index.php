@@ -27,38 +27,44 @@
 			<div class="postcard">
 				<div class="photo">
 					<a href="#"><img src="sq_img/img1resize.jpg" alt="sq_img/img1resize"></a>
+					<p>XXX</p>
 				</div>
-				<p>XXX</p>
+				
 			</div>
 			<div class="postcard">
 				<div class="photo">
 					<a href="#"><img src="sq_img/img2resize.jpg" alt="sq_img/img2resize"></a>
+					<p>XXX</p>
 				</div>
-				<p>XXX</p>
+				
 			</div>
 			<div class="postcard">
 				<div class="photo">
 					<a href="#"><img src="sq_img/img3resize.jpg" alt="sq_img/img3resize"></a>
+					<p>XXX</p>
 				</div>
-				<p>XXX</p>
+				
 			</div>
 			<div class="postcard">
 				<div class="photo">
 					<a href="#"><img src="sq_img/img4resize.jpg" alt="sq_img/img4resize"></a>
+					<p>XXX</p>
 				</div>
-				<p>XXX</p>
+				
 			</div>
 			<div class="postcard">
 				<div class="photo">
 					<a href="#"><img src="sq_img/img5resize.jpg" alt="sq_img/img5resize"></a>
+					<p>XXX</p>
 				</div>
-				<p>XXX</p>
+				
 			</div>
 			<div class="postcard">
 				<div class="photo">
 					<a href="#"><img src="sq_img/img6resize.jpg" alt="sq_img/img6resize"></a>
+					<p>XXX</p>
 				</div>
-				<p>XXX</p>
+				
 			</div>
 
 		</article>
